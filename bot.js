@@ -68,4 +68,6 @@ message.channel.send(embed)
 }
 
 
-});//LioNDz مرة من هنا
+});//
+
+client.login(process.env.BOT_TOKEN
